@@ -1,5 +1,13 @@
-### Hi there 👋
+# Reda SENOUCI
+Hello! 👋
 
+I'm Reda Senouci, a seasoned software engineer with a rich background spanning from agile startups to managing large-scale projects. I hold a deep appreciation for ownership, craftsmanship, and the development of highly scalable systems. 🚀
+
+Throughout my career, I've been driven by the challenge of transforming complex technical requirements into robust and efficient solutions. I'm passionate about continuous improvement and leveraging my expertise in technologies such as Golang, Java, and Domain Driven Design. 💻🌐
+
+For more insights into my thoughts and experiences in the tech world, check out my blog at Substack: https://substack.com/@redsen
+
+Feel free to explore my repositories to see the various projects I’ve been working on and how I apply best practices in software development to create impactful and sustainable systems. 🔍📈
 <!--
 **SenRed/SenRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
